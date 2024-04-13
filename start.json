@@ -1,6 +1,6 @@
 {    
     "name": "Start StremioMSX",
     "version": "1.0.0",
-    "parameter": "content:https://raphael1289.github.io/msx//data/content.json",
+    "parameter": "content:https://raphael1289.github.io/msx/data/content.json",
     "welcome": "none"
 }
